@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
-     width="750"
-     alt="header gif"/>
+<img src="./header.gif" width="100%" alt="Banner"/>
 
 # Hi there, I'm Sanmitha 👋
 
@@ -26,10 +24,7 @@
 Name: Sanmitha
 Location: Udupi, Karnataka, India
 Degree: B.E. Computer Science & Engineering (Data Science)
-College: Alva's Institute of Engineering and Technology, Moodbidri
-CGPA: 8.71
-Currently Interning: AptPath — AI Product Development (VoxForm)
-Also Working On: Infosys Springboard Virtual Internship 7.0 — Supply Chain Visibility & Optimization
+Currently Interning: Infosys Springboard Virtual Internship 7.0 
 Interests: Data Analysis, Visualization, Web Development, Machine Learning
 ```
 
@@ -112,14 +107,6 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 **Elite + Silver** — NPTEL Introduction to IoT
-- 🥇 **Elite** — NPTEL Cloud Computing
-- ☁️ **Google Cloud Data Analytics Certificate** — hands-on experience in data analytics
-- 💻 Participated in **Fusion Techathon 4.0**, National Level Hackathon at Alva's Institute of Engineering & Technology
-
----
 
 ## 📊 GitHub Stats
 
