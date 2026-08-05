@@ -116,11 +116,11 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanmitha44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sanmitha44" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmitha44&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmitha44" alt="Contribution Graph" />
 </p>
 
 ---
