@@ -111,9 +111,9 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanmitha44&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img height="180" src="./profile/stats.svg" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmitha44&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img height="180" src="./profile/top-langs.svg" />
 
 </div>
 
