@@ -110,16 +110,27 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmitha44&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanmitha44&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanmitha44&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmitha44&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanmitha44&theme=tokyonight&hide_border=true"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmitha44&theme=tokyo-night&hide_border=true" width="90%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Sanmitha44&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmitha44&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 </div>
 
 ---
