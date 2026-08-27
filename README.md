@@ -121,7 +121,7 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Sanmitha44&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+<img height="180" src="./profile/streak.svg" />
 
 </div>
 
