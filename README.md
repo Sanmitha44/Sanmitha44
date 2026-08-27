@@ -135,8 +135,6 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 ---
 
----
-
 ## 📫 Connect With Me
 
 <div align="center">
