@@ -129,9 +129,11 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmitha44&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmitha44&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Sanmitha's GitHub Activity Graph"/>
 
 </div>
+
+---
 
 ---
 
