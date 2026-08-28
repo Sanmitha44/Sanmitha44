@@ -111,10 +111,6 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 <div align="center">
 
-<img height="180" src="./profile/stats.svg" />
-
-<img height="180" src="./profile/top-langs.svg" />
-
 </div>
 
 <br/>
