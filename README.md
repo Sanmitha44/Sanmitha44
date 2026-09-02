@@ -141,6 +141,6 @@ Analyzed 114K+ Spotify tracks using Django and Pandas, presenting insights throu
 
 <br/><br/>
 
-⭐️ *"Turning data into decisions, one insight at a time."*
+⭐️ *"Turning data into decisions, one insight at a time."* ⭐️
 
 </div>
